@@ -87,3 +87,39 @@ img{
 .audi_back_light{
     box-shadow: 0px 0px 20px 15px rgb(121, 121, 121);
 }
+
+.tlacitko1 {
+    background-color: #141414;
+    color: white;
+    border: 1px solid rgba(54, 54, 54, 0.6);
+    font-weight: 600;
+    position: absolute;
+    outline: none;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    height: 45px;
+    width: 130px;
+    opacity: 1;
+    margin-left: 51%;
+}
+
+.tlacitko2 {
+    background-color: #141414;
+    color: white;
+    border: 1px solid rgba(54, 54, 54, 0.6);
+    font-weight: 600;
+    position: absolute;
+    outline: none;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    height: 45px;
+    width: 130px;
+    opacity: 1;
+    margin-left: 39%;
+}
